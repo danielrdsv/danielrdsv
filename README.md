@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielrdsv
 - 👀 I’m interested in FE Development
-- 🌱 I’m currently learning JS
+
 
 
 <!---
